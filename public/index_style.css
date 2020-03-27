@@ -1,0 +1,76 @@
+
+body{
+    background-color: black;
+}
+
+.bgimg{
+    width: 100%px;
+    height: 100%hx;
+    position: absolute
+}
+
+.title{
+    text-align: center;
+    font-size: 50px;
+    margin: 0px;
+}
+.titleDiv{
+    color: whitesmoke;
+    background-color: gray;
+}
+.suptitleDiv{
+    background-color: gray;
+    margin-top: 0px;
+}
+.suptitle{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 0px;
+    border-top: 3px solid black;
+    margin-bottom: 0px;
+}
+
+.planet{
+    transition: 0.42s;
+    /* border: green solid 1px; */
+    padding: 10px;
+    margin-bottom: 19px;
+    font-weight: bold;
+    /* box-shadow: 0px 0px 20px white; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.planet:hover{
+    transform: scale(1.2);
+}
+.planetNeptune{
+    transition: 0.42s;
+    /* border: green solid 1px; */
+    padding: 10px;
+    padding-bottom: 0px;
+    font-weight: bold;
+    /* box-shadow: 0px 0px 20px white; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.planetNeptune:hover{
+    transform: scale(1.2);
+}
+
+
+.Main_container{
+    position: relative;
+    top: 0px;
+    text-align: center;
+    justify-content: center;
+}
+
+.AtagPlanet{
+    font-size: 38px;
+    color: white;
+}
+.AtagMoon{
+    font-size: 19px;
+    color: aqua;
+}
+.planetNeptune{
+    margin-bottom: auto 0;
+}
