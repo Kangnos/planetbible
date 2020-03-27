@@ -5,4 +5,4 @@
 
 
 ```node main.js```
-cmd에 node main.js라고 입력하고 인터넷 에디터에 localhost:3000을 
+### cmd에 node main.js라고 입력하고 인터넷 에디터에 localhost:3000을 입력
